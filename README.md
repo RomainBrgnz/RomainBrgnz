@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Romain 👋</h1>
 
-<h3 align="center">Computer Science Student & IT Specialist</h3>
+<h3 align="center">Computer Science Student / Junior IT Support</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romain-brgnz/">
