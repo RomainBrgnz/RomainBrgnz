@@ -1,66 +1,71 @@
 <!-- HEADER SECTION -->
+
 <h1 align="center">Hi there, I'm Romain 👋</h1>
 
 <h3 align="center">Computer Science Student & IT Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/RomainBrgnz">
-    <img src="https://komarev.com/ghpvc/?username=RomainBrgnz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/romain-brgnz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+<!-- INTRO TEXT -->
+
 <p align="center">
-  I combine <b>academic computer science concepts</b> with hands-on <b>professional IT experience</b>.<br>
-  Currently working in <b>First-line IT Support</b> while building robust web solutions with the <b>Python ecosystem</b>.
+  Currently pursuing a <b>Bachelor's degree in Computer Science</b> (Evening Classes) alongside my professional career.<br>
+  My role combines <b>First-line IT Support</b> operations with the development of web applications using <b>Django</b> and <b>FastAPI</b>.
 </p>
 
-<br>
-
 <!-- BADGES SECTION -->
+
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   
   <br/>
   
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
   
   <br/>
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
 <br>
 <br>
 
-<!-- SEPARATION CRITIQUE : Passage au mode Markdown pour les tableaux -->
+<!-- EXPERIENCE SECTION -->
 
 <h2 align="center">💼 Experience & Focus</h2>
 
 | Role | Focus |
 | :--- | :--- |
 | **IT Support Specialist** | Daily first-line support, troubleshooting, and operations. |
-| **Developer** | Developing internal automation tools and web apps using **Django** and **FastAPI**. |
+| **Backend Developer** | Developing internal automation tools and web apps using **Django** and **FastAPI**. |
 
 <br>
+
+<!-- EDUCATION SECTION -->
 
 <h2 align="center">🎓 Education & Certifications</h2>
 
 | Certification | Institution | Link |
 | :--- | :--- | :--- |
-| **CS50 Introduction to Computer Science** | Harvard University | [View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
-| **CS50's Web Programming** | Harvard University | [View Course](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) |
-| **Google IT Support Professional** | Coursera | *Certification* |
+| **CS50 Introduction to Computer Science** | Harvard University | [View Certificate](https://cs50.harvard.edu/certificates/ff673f56-aaa3-44e3-92e3-f03221b02afe) |
+| **CS50's Web Programming** | Harvard University | [View Certificate](https://cs50.harvard.edu/certificates/cabbbfb4-31fe-411a-980d-efddc60f3d10) |
+| **Google IT Support Professional** | Coursera | [View Certificate](https://coursera.org/share/9040d2e60c3ff17345084499711e844b) |
 
 <br>
+
+<!-- PROJECTS SECTION -->
 
 <h2 align="center">📂 Featured Projects</h2>
 
@@ -80,6 +85,8 @@
 | **Credit Risk App** | Data Science / Web | [View Repo](https://github.com/igorlam00237/app-credit_risk) |
 
 <br>
+
+<!-- GITHUB STATS -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
