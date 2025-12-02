@@ -46,9 +46,9 @@
 
 <h2 align="center">💼 Experience & Focus</h2>
 
-| Role | Focus |
+| Role | Description |
 | :--- | :--- |
-| **IT Support Specialist** | Daily first-line support, troubleshooting, and operations. |
+| **IT Support** | Daily first-line support, troubleshooting, and operations. |
 | **Backend Developer** | Developing internal automation tools and web apps using **Django** and **FastAPI**. |
 
 <br>
@@ -85,16 +85,3 @@
 | **Credit Risk App** | Python | FastAPI | [View Repo](https://github.com/igorlam00237/app-credit_risk) |
 
 <br>
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RomainBrgnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Romain's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBrgnz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
