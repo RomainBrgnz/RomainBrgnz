@@ -73,16 +73,16 @@
 
 ### 🚀 Solo Projects
 
-| Project | Stack | Link |
-| :--- | :--- | :--- |
-| **My Toolbox** | Python / Utils | [View Repo](https://github.com/RomainBrgnz/mytoolbox) |
-| **T-Calendar** | Python / Web | [View Repo](https://github.com/RomainBrgnz/tcalendar) |
+| Project | Language | Framework | Repository |
+| :--- | :--- | :--- | :--- |
+| **My Toolbox** | Python | Flask | [View Repo](https://github.com/RomainBrgnz/mytoolbox) |
+| **T-Calendar** | Python | Django | [View Repo](https://github.com/RomainBrgnz/tcalendar) |
 
 ### 🤝 Collaboration
 
-| Project | Stack | Link |
-| :--- | :--- | :--- |
-| **Credit Risk App** | Data Science / Web | [View Repo](https://github.com/igorlam00237/app-credit_risk) |
+| Project | Language | Framework | Link |
+| :--- | :--- | :--- | :--- |
+| **Credit Risk App** | Python | FastAPI | [View Repo](https://github.com/igorlam00237/app-credit_risk) |
 
 <br>
 
