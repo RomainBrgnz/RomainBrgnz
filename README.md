@@ -14,7 +14,7 @@
 
 <p align="center">
   Currently pursuing a <b>Bachelor's degree in Computer Science</b> (Evening Classes) alongside my professional career.<br>
-  My role combines <b>First-line IT Support</b> operations with the development of web applications using <b>Django</b> and <b>FastAPI</b>.
+  My role combines <b>First-line IT Support</b> operations and the development of web applications using <b>Django</b> and <b>FastAPI</b>.
 </p>
 
 <!-- BADGES SECTION -->
