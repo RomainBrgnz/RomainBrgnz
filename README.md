@@ -51,5 +51,7 @@
 | Project | Language | Framework | Link |
 | :--- | :--- | :--- | :--- |
 | **Credit Risk App** | Python | FastAPI | [View Repo](https://github.com/igorlam00237/app-credit_risk) |
+| **KOG Community** | Python | Django | [View Repo](https://github.com/RomainBrgnz/kog) |
+
 
 <br>
