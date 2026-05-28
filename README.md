@@ -30,6 +30,7 @@
 | **CS50 Introduction to Computer Science** | Harvard University | [View Certificate](https://cs50.harvard.edu/certificates/ff673f56-aaa3-44e3-92e3-f03221b02afe) |
 | **CS50's Web Programming** | Harvard University | [View Certificate](https://cs50.harvard.edu/certificates/cabbbfb4-31fe-411a-980d-efddc60f3d10) |
 | **Google IT Support Professional** | Coursera | [View Certificate](https://coursera.org/share/9040d2e60c3ff17345084499711e844b) |
+| **Microsoft Azure Fundamentals (AZ-900)** | Microsoft  | [View Certificate](https://learn.microsoft.com/fr-be/users/romainbrogniez/credentials/2ed787196eeb47d1?ref=https%3A%2F%2F) |
 
 <br>
 
@@ -45,6 +46,7 @@
 | :--- | :--- | :--- | :--- |
 | **My Toolbox** | Python | Flask | [View Repo](https://github.com/RomainBrgnz/mytoolbox) |
 | **T-Calendar** | Python | Django | [View Repo](https://github.com/RomainBrgnz/tcalendar) |
+| **Windows Server Labs** | PowerShell | / | [View Repo](https://github.com/RomainBrgnz/windows-server-labs) |
 
 ### 🤝 Collaboration
 
